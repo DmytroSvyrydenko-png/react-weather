@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    align-items: center; // elements vertical position in the container
+    justify-content: space-between; // elements horizontal position in the container
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 20px;
+    svg {
+        width: 65px;
+        height: 65px;
+    }
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
