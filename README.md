@@ -5,4 +5,5 @@
 - `npm install -g npm@latest` - update npm 
 - `npm add react-router-dom @types/react-router-dom` - install router with types
 - `npm i --save react-select` - install react select
-- `shft + alt + f` - to format the code
+- `shft + alt + F` - to format the code
+- `ctrl + C` - to end project
